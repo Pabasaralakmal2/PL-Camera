@@ -1,7 +1,7 @@
 # 📸 PL Camera - Capture Life, Your Way
 
 <p align="center">
-  <img src="app/src/main/res/drawable/img_app_icon_1786547977520.jpg" alt="PL Camera Icon" width="120" style="border-radius: 24px;"/>
+  <img src="docs/appicon.jpg" alt="PL Camera Icon" width="120" style="border-radius: 24px;"/>
 </p>
 
 <p align="center">
